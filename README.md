@@ -4,7 +4,7 @@
 <tr>
   <td align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" />
-  </td>
+  <a href="https://github.com/telomelonia">
   <td align="center">
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -13,7 +13,8 @@
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <br>
   </td>
-</tr>
+  
+</a>
 <!--
 **Telomelonia/Telomelonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
