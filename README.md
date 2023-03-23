@@ -1,19 +1,8 @@
 ### Hi there 👋
 ![gitartwork](gitartwork.svg)
 
-<tr>
-  <td align="center">
+<a href="https://github.com/telomelonia">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" />
-  <a href="https://github.com/telomelonia">
-  <td align="center">
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <img src="https://github.com/telomelonia/telomelonia/blob/master/globe.gif?raw=true" />
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <br>
-  </td>
-  
 </a>
 <!--
 **Telomelonia/Telomelonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
