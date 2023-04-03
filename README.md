@@ -1,16 +1,16 @@
 ## Hi there 👋, I' m 
 ![gitartwork](gitartwork.svg)
-<!-- ## About me 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<hr/>
+
+
 <a href="https://github.com/telomelonia">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/telomelonia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark" />
+  <img align="right" src="https://github.com/Telomelonia/Telomelonia/blob/main/mygif.gif" />
 </a>
+
+<!--<a href="https://github.com/telomelonia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark" />
+</a> -->
+
