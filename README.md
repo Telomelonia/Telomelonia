@@ -7,10 +7,14 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/telomelonia">
-  <img align="right" src="https://github.com/Telomelonia/Telomelonia/blob/main/mygif.gif" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark" />
 </a>
 
-<!--<a href="https://github.com/telomelonia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark" />
-</a> -->
+<!--## About Me ...
+- Currently I am a undergrad
+
+<a href="https://github.com/telomelonia">
+  <img align="right" src="https://github.com/Telomelonia/Telomelonia/blob/main/mygif.gif" />
+</a>
+-->
 
