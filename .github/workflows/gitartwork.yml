@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: telomelonia
             # Text on contribution graph 
-            text: ARYAN
+            text: Aryan
        - uses: jasineri/simple-push-action@v1
