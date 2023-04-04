@@ -7,6 +7,8 @@
     <p align="center">
 <a href="https://github.com/telomelonia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" /> </a>
         <hr/>
+    </p>
+    <p align="center">
        <a href="https://github.com/telomelonia"> <img align = "center" src="https://streak-stats.demolab.com?user=telomelonia&theme=dark" /></a>
 <!-- <a href="https://github.com/telomelonia"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark"/></a> -->
 
