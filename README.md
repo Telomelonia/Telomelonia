@@ -18,9 +18,8 @@
 </hr>
 <hr/>
 
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/engincan-veske-b4a75b145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/aryan-shukla-695031200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryan-shukla-695031200" height="30" width="30" /></a>
 <a href="mailto:shuklas2002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="shuklas2002@gmail.com" height="30" width="30" /></a>
 <!--## About Me ...
 - Currently I am a undergrad
