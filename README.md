@@ -1,18 +1,13 @@
 ## Hi there 👋, I' m 
 ![gitartwork](gitartwork.svg)
 <hr>
-<p><em>Undergraduate at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>I am currently an undergraduate at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     
 <hr/>
     <p align="center">
-<a href="https://github.com/telomelonia"><img align="left" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" /> </a>
-  </p>
-        <p align="center">
+<a href="https://github.com/telomelonia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" /> </a>
        <a href="https://github.com/telomelonia"> <img src="https://streak-stats.demolab.com?user=telomelonia&theme=dark" /></a>
-</p>
-        <p align="center">
 <a href="https://github.com/telomelonia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark"/></a>
-
 </p>
 <hr>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
