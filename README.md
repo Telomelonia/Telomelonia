@@ -4,10 +4,10 @@
 <p><em>I am currently an undergraduate at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     
 <hr/>
-    <p align="center">
+<!--     <p align="center">
 <a href="https://github.com/telomelonia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=telomelonia&show_icons=true&theme=dark" /> </a>
         <hr/>
-    </p>
+    </p> -->
     <p align="center">
        <a href="https://github.com/telomelonia"> <img align = "center" src="https://streak-stats.demolab.com?user=telomelonia&theme=dark" /></a>
 <!-- <a href="https://github.com/telomelonia"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telomelonia&layout=compact&theme=dark"/></a> -->
