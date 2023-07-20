@@ -1,6 +1,7 @@
-## Hi there 👋, I' m 
-[ok](Image.svg)
-<hr>
+[Under maintenance] 🔨
+
+## Hi there 👋, I' m Aryan
+
 <p><em>I am currently an undergraduate at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     
 <hr/>
