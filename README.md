@@ -1,5 +1,5 @@
 ## Hi there 👋, I' m 
-![gitartwork](gitartwork.svg)
+[ok](Image.svg)
 <hr>
 <p><em>I am currently an undergraduate at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     
