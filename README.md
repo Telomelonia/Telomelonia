@@ -7,14 +7,17 @@
 </div>
 
 ###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" href="https://discord.com/" />  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="shuklas2002@gmail.com"/>
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/aryan-shukla-695031200/"/>
-
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:shuklas2002@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-shukla-695031200/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
-
 ###
 
 <img align="right" height="122" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBoZjh3MjR4dDhlYWw3OHhueTloaDVvdHJmYzZnNTd5eGZyODNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nwG9pkFr8uBQqyJwWO/giphy.gif"  />
