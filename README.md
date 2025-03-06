@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aryan Shukla and I'm a student, from IIT Roorkee</h2>
+<h2 align="left">Hi 👋! My name is Aryan Shukla and I'm SDE</h2>
 
 ###
 
