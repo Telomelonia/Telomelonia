@@ -1,18 +1,21 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: telomelonia
-            # Text on contribution graph 
-            text: Aryan
-       - uses: jasineri/simple-push-action@v1
+name: Git Artwork
+on: 
+  push:
+  schedule:
+    - cron: '0 0 */3 * *'  # Run every 3 days instead of every 24 hours
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           # Use this username's contribution graph  
+           user_name: telomelonia
+           # Text on contribution graph 
+           text: telo
+           # Optional settings for better appearance
+           word_length: 6
+           letter_spacing: 2
+      - uses: jasineri/simple-push-action@v1
