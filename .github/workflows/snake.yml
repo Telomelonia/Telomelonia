@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  schedule:
+      # run every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: telomelonia
+          # Generate files directly in the repository
+          svg_out_path: github-contribution-grid-snake.svg
+          gif_out_path: github-contribution-grid-snake.gif
+      
+      # Commit and push the generated files to main branch
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.gif
+          git commit -m "Generate Snake"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  # Using main instead of output
+          force: true
