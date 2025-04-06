@@ -33,4 +33,4 @@
 
 
 ### GitHub Activity
-![Snake animation](https://github.com/telomelonia/telomelonia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Telomelonia/Telomelonia/blob/main/github-snake-dark.svg)
