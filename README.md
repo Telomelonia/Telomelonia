@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋! I'm Aryan Shukla - Software Development Engineer</h1>
+<h1 align="center">Hi 👋! This is... </h1>
+<div align="center">
+  <img src="https://github.com/Telomelonia/Telomelonia/blob/main/gitartwork.svg" alt="Git Artwork"/>
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Telomelonia&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
