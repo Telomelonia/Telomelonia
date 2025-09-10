@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋! This is... </h1>
+# Hi 👋! This is... 
+
 <div align="center">
   <img src="https://github.com/Telomelonia/Telomelonia/blob/main/gitartwork.svg" alt="Git Artwork"/>
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Telomelonia&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 </div>
 
-### About Me
-- I build things I need in my day-to-day life
-- Currently exploring advanced concepts in networks
-- Working on innovative projects that solve real-world problems
+## About Me
+- I build things I need in my day-to-life (because I'm too lazy to find existing solutions)
+- Currently exploring advanced concepts in networks (aka fell down a rabbit hole 3 weeks ago)
+- Working on innovative projects that solve real-world problems (translation: abandoned 47 half-finished projects)
 
-### Connect With Me
+## Connect With Me
 <div align="left">
   <a href="https://discord.com/telomelonia">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
@@ -28,7 +28,16 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBoZjh3MjR4dDhlYWw3OHhueTloaDVvdHJmYzZnNTd5eGZyODNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nwG9pkFr8uBQqyJwWO/giphy.gif" />
 
-### My Tech Stack
+## My "Tech Stack" 
+*or: Things I've installed at 2am and forgot about*
+
+Look, I know what you're thinking. "This guy probably just copy-pasted a bunch of logos." And you know what? You're not wrong. But I DID actually use most of these... for like 5 minutes each.
+
+<details>
+<summary>🤷‍♂️ <b>fine here's the list</b> (i was supposed to clean this up months ago)</summary>
+
+*But hey, if you need someone who's "familiar with enterprise-grade solutions," I technically have Jenkins installed somewhere...maybe with jdk or eclipse*
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -215,5 +224,20 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 </div>
 
+### honest stats:
+- **projects started**: 67
+- **projects finished**: 4 (one was claude init)
+- **todo items**: 2,847 (stopped counting)
+- **time spent configuring dev environment**: probably 3 years total
+- **time spent actually coding**: much less than that
+
+*anyway this README is already way too long and i should probably be working instead of updating it but here we are*
+
+</details>
+
+---
+
 ### GitHub Activity
 ![Snake animation](https://github.com/Telomelonia/Telomelonia/blob/main/github-snake-dark.svg)
+
+*ps: if you actually read this whole thing you have too much time on your hands. we should be friends.*
